@@ -1,6 +1,13 @@
 {
   "db": {
-    "name": "db",
-    "connector": "memory"
+    "host": "ds051970.mlab.com",
+    "port": 51970,
+    "url": "",
+    "database": "loopback-angular",
+    "name": "loopback-angular",
+    "username": "test",
+    "password": "test",
+    "connector": "mongodb",
+    "allowExtendedOperators": true
   }
 }
